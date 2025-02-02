@@ -1,2 +1,3 @@
 <?php
-    require_once 'inc/custom-function.php';
+    require 'inc/custom-function.php';
+    require 'inc/actions.php';
